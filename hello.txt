@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E2E3-7C01
+
+ Directory of C:\Users\Prakash\Desktop\sneha
+
+03/09/2019  05:04 PM    <DIR>          .
+03/09/2019  05:04 PM    <DIR>          ..
+03/09/2019  05:04 PM                 0 hello.txt
+03/09/2019  05:02 PM               405 index.html
+03/09/2019  05:02 PM               453 new.txt
+03/09/2019  04:36 PM                 6 sneha.txt
+               4 File(s)            864 bytes
+               2 Dir(s)  69,454,692,352 bytes free
